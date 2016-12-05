@@ -1,8 +1,8 @@
-# react-express-demo
-# Express’s static module will automatically use index.html as the index file in static directories,
-# webpack, a special plugin for it to compile babel javascript files and react.
-# also need to run our node server as its serves webpack’s bundle for us.
-# need one super-useful package called concurrently
+#react-express-demo
+### Express’s static module will automatically use index.html as the index file in static directories,
+### webpack, a special plugin for it to compile babel javascript files and react.
+### also need to run our node server as its serves webpack’s bundle for us.
+### need one super-useful package called concurrently
 
 ```markdown
 
@@ -15,4 +15,4 @@ babel-plugin-transform-class-properties is for using static variables inside ES6
 ```
 
 
-# npm run dev
+### npm run dev
